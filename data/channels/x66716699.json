@@ -1,0 +1,25 @@
+{
+    "title": "Back to College",
+    "description": "",
+    "referenceId": null,
+    "date_created": "1468022226",
+    "date_modified": "1503959077",
+    "tags": "",
+    "sourceId": "10",
+    "status": "pending",
+    "visibility": "1",
+    "id": "66716699",
+    "loginId": "1758166",
+    "entityType": "3",
+    "titleTextEncoded": "Back-To-College",
+    "category": null,
+    "duration": null,
+    "settings": {
+        "canvasImage": "321214913-0.PNG",
+        "colorClass": "light",
+        "canvasType": "cropped",
+        "canvasCropped": "321214913-019241154.PNG",
+        "autoPlay": 0
+    },
+    "transcripts": null
+}
