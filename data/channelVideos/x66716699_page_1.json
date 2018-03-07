@@ -1,0 +1,29 @@
+{
+    "pageNumber": 1,
+    "data": [
+        {
+            "id": "6468042",
+            "title": "Room For Studying",
+            "date_created": "1371130553",
+            "loginId": "1758166",
+            "tags": "",
+            "description": "Room For Studying: watch this video featuring products available on bedbathandbeyond.com.",
+            "asset": {
+                "type": "youtube",
+                "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/2yUoeNUHbps\/hqdefault.jpg",
+                "uploadDate": 1371130553,
+                "videoId": "2yUoeNUHbps",
+                "title": "Room For Studying",
+                "description": "http:\/\/www.bedbathandbeyond.com\/btspracticalsolutionshome.asp? Room For Studying: watch this video featuring products available on ...",
+                "author": "Bedbathandbeyond",
+                "mediaDuration": "84",
+                "prettyDuration": "00:01:24",
+                "views": "962",
+                "uploadAsset": false,
+                "quality": ""
+            },
+            "parentId": "66716699",
+            "url": "\/back-to-college\/room-for-studying\/66716699-6468042"
+        }
+    ]
+}
